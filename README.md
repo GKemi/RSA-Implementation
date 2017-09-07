@@ -1,10 +1,5 @@
 # RSA-Implementation
-
-## What is this program?
-A program developed for my final year module "Computer Security," which simulates how an implementation of RSA would operate. When launched, it provides two scenarios of use:
-
-  1. A basic RSA transaction
-  2. Transaction failure
+A program developed for my final year module "Computer Security," which simulates how an implementation of RSA would operate. 
   
 ## Dependencies
 To run this program, you will need to have Java SE Development Kit 8 installed onto your system.
